@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Lukasenko22
-- 👀 I’m interested in Java, Spring
-- 🌱 I’m currently learning Spring
+- 👋 Hi, I’m @Lukasenko22 (Lukáš Molčan)
+- 👀 I’m interested in Java, Spring MVC and also .NET and C# Development
+- 🌱 I’m currently learning Spring MVC, Spring Core, Spring Security, Spring REST, Spring DATA JPA
 - 💞️ I’m looking to collaborate on project with Web Development
 - 📫 How to reach me molcan.lukas@gmail.com
 
